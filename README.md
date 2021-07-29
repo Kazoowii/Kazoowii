@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kazoowii
+- 👀 I’m interested in ... Game Development
+- 🌱 I’m currently learning ... GDScript, Pixel art, Java
+- 💞️ I’m looking to collaborate on ... idk
+- 📫 How to reach me ... Discord: Kazoowii#9087
